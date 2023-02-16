@@ -21,7 +21,7 @@ if( ! defined('BASEPATH') ) exit('No direct script access allowed');
         echo $message;
     endif;
     ?>
-<h2><strong> <i class="fa fa-circle" aria-hidden="true"></i> Información pago a dispersar Ticket #61579818</h2>
+<h2><strong> <i class="fa fa-circle" aria-hidden="true"></i> Información pago a dispersar Ticket #76339526</h2>
     <div class="p-3 col-sm-12 bg-light text-center">
         <div class="row">
         <br>
@@ -29,31 +29,31 @@ if( ! defined('BASEPATH') ) exit('No direct script access allowed');
             <table class="table table-striped table-hover" width="100%">
                 <tr>
                     <td style="text-align: right !important;">Nombre constructor: </td>
-                    <td>CAMACHO LTDA</td>
+                    <td>TECNOENCOFRADOS CUCUTA S.A.S.</td>
                 </tr>
                 <tr>
                     <td style="text-align: right !important;">Valor pago: </td>
-                    <td>54.500</td>
+                    <td>247969</td>
                 </tr>
                 <tr>
                     <td style="text-align: right !important;">Fecha pago: </td>
-                    <td>2021-04-20 12:11:40</td>
+                    <td>2022-07-19 00:00:00</td>
                 </tr>
                 <tr>
                     <td style="text-align: right !important;">Periodo pago: </td>
-                    <td>MAR-2021</td>
+                    <td>2022-12</td>
                 </tr>
                 <tr>
                     <td style="text-align: right !important;">Ciudad obra: </td>
-                    <td>GUADALUPE</td>
+                    <td>villa del rosario</td>
                 </tr>
                 <tr>
                     <td style="text-align: right !important;">Nombre obra: </td>
-                    <td>PROYECTO VILLA MANUELA 1 Y 2</td>
+                    <td>petra</td>
                 </tr>
                 <tr>
                     <td style="text-align: right !important;">Número obra: </td>
-                    <td>25752017</td>
+                    <td>1550049</td>
                 </tr>
             </table>
         </div>

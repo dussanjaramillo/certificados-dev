@@ -42,19 +42,19 @@ if( ! defined('BASEPATH') ) exit('No direct script access allowed');
                     </thead>
                     <tbody>
                     <tr>
-                        <td>61579488</td>
-                        <td>CAMACHO LTDA</td>
-                        <td>123.000</td>
-                        <td>2021-08-20 12:11:40</td>
-                        <td>JUL-2021</td>
-                        <td>FLORENCIA</td>
-                        <td>PRADOS DEL NORTE VILLA DANIELA</td>
-                        <td>426</td>
+                        <td>76339526</td>
+                        <td>TECNOENCOFRADOS CUCUTA S.A.S.</td>
+                        <td>247969</td>
+                        <td>2022-07-19 00:00:00</td>
+                        <td>2022-12</td>
+                        <td>villa del rosario</td>
+                        <td>petra</td>
+                        <td>1550049</td>
                         <td>
                             <a class="btn btn-success" data-toggle="tooltip" data-placement="top" title="Dispersar pago" href="<?php echo base_url(), "index.php/dispersion_pagos/informacion" ?>"> <i class="fa fa-cubes"></i> Dispersar</a>
                         </td>
                     </tr>
-                    <tr>
+                    <!--<tr>
                         <td>61579466</td>
                         <td>CAMACHO LTDA</td>
                         <td>277.450</td>
@@ -131,7 +131,7 @@ if( ! defined('BASEPATH') ) exit('No direct script access allowed');
                         <td>
                             <a class="btn btn-success" data-toggle="tooltip" data-placement="top" title="Dispersar pago" href="<?php echo base_url(), "index.php/dispersion_pagos/informacion" ?>"> <i class="fa fa-cubes"></i> Dispersar</a>
                         </td>
-                    </tr>
+                    </tr>-->
                     </tbody>
                 </table>
         </div>

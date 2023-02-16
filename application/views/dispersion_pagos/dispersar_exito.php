@@ -36,79 +36,49 @@ if( ! defined('BASEPATH') ) exit('No direct script access allowed');
                     <th>Período pago</th>
                     <th>Ciudad obra</th>
                     <th>Nombre obra</th>
-                    <th>Número obra</th>
+                    <th>Número obra</th> <!-- Prueba comments -->
         </tr>
         </thead>
         <tbody>
         <tr>
-            <td>61579818</td>
-            <td>COVI CONSTRUCCIONES SAS</td>
-            <td>123.000</td>
-            <td>2021-08-20 12:11:40</td>
-            <td>JUL-2021</td>
-            <td>FLORENCIA</td>
-            <td>PRADOS DEL NORTE VILLA DANIELA</td>
-            <td>426</td>
+            <td>763395261</td>
+            <td>TECNOENCOFRADOS CUCUTA S.A.S.</td>
+            <td>62000</td>
+            <td>2022-12-27 15:21:00</td>
+            <td>2022-12</td>
+            <td>BAMBUCO</td>
+            <td>ACTA NO 1 ACTA NO 2 3305  BAM 024</td>
+            <td></td>
         </tr>
         <tr>
-            <td>61579818</td>
-            <td>ACOXX DE COLOMBIA SAS</td>
-            <td>277.450</td>
-            <td>2021-07-13 14:20:00</td>
-            <td>JUN-2021</td>
+            <td>763395262</td>
+            <td>TECNOENCOFRADOS CUCUTA S.A.S.</td>
+            <td>62000</td>
+            <td>2022-12-27 15:21:00</td>
+            <td>2022-12</td>
             <td>PAIME</td>
-            <td>EDIFICIO CALLE 100 X 11B</td>
-            <td>051</td>
+            <td>4295 41 CONROL LA RIVIERE TORRE 2</td>
+            <td></td>
         </tr>
         <tr>
-            <td>61579818</td>
-            <td>JCP CONSTRUCCIONES S.A.S</td>
-            <td>221.850</td>
-            <td>2021-06-08 09:00:00</td>
-            <td>MAY-2021</td>
-            <td>CALI</td>
-            <td>OPTIMIZACION BOCATOMAS SANTAGE</td>
-            <td>003</td>
+            <td>763395263</td>
+            <td>TECNOENCOFRADOS CUCUTA S.A.S.</td>
+            <td>62000</td>
+            <td>2022-12-27 15:21:00</td>
+            <td>2022-12</td>
+            <td>FRIKO</td>
+            <td>3172</td>
+            <td></td>
         </tr>
         <tr>
-            <td>61579818</td>
-            <td>C D Y L LLTDA</td>
-            <td>220.850</td>
-            <td>2021-05-01 11:11:11</td>
-            <td>ABR-2021</td>
-            <td>BOGOTA</td>
-            <td>MANO DE OBRA PARA LA CONSTRUCC</td>
-            <td>236</td>
-        </tr>
-        <tr>
-            <td>61579818</td>
-            <td>MONTAJES Y SERVICIOS SOLDILEC S.A.S</td>
-            <td>54.500</td>
-            <td>2021-04-20 12:11:40</td>
-            <td>MAR-2021</td>
-            <td>GUADALUPE</td>
-            <td>PROYECTO VILLA MANUELA 1 Y 2</td>
-            <td>25752017</td>
-        </tr>
-        <tr>
-            <td>61579818</td>
-            <td>LEDING S.A.S</td>
-            <td>117.200</td>
-            <td>2021-03-12 12:10:00</td>
-            <td>FEB-2021</td>
-            <td>CIMITARRA</td>
-            <td>MANTENIMIENTO Y REAPRACION MIO</td>
-            <td>011197</td>
-        </tr>
-        <tr>
-            <td>61579818</td>
-            <td>ISE INGENIERIA SAS</td>
-            <td>136.750</td>
-            <td>2021-02-06 10:00:10</td>
-            <td>ENE-2021</td>
-            <td>MOSQUERA</td>
-            <td>Construcción A</td>
-            <td>4560012</td>
+            <td>763395264</td>
+            <td>TECNOENCOFRADOS CUCUTA S.A.S.</td>
+            <td>62000</td>
+           <td>2022-12-27 15:21:00</td>
+            <td>2022-12</td>
+            <td>LA PLAYITA</td>
+            <td>3173</td>
+            <td></td>
         </tr>
         </tbody>
     </table>
