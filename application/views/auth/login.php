@@ -49,8 +49,8 @@ input {
 
 
 
-.login-sec h2{margin-bottom:28px; font-weight:800; font-size:28px; color: #ff6719;}
-.login-sec h2:after{content:" "; width:100px; height:5px; background:#FEB58A; display:block; margin-top:10px; border-radius:3px; margin-left:auto;margin-right:auto}
+.login-sec h2{margin-bottom:28px; font-weight:800; font-size:28px; color: #01AF01;}
+.login-sec h2:after{content:" "; width:100px; height:5px; background:#00B100; display:block; margin-top:10px; border-radius:3px; margin-left:auto;margin-right:auto}
 .body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1rem;
@@ -63,7 +63,7 @@ input {
 a:visited {
 
 outline: none;
-color: #ff6719;
+color: #01AF01;
 ;
 
 }
@@ -171,7 +171,7 @@ $(function() {
     <td colspan="2" >
      <!--<a href="#" name="ingresar" id="ingresar"  style="color:#FA6E1D;" ><strong> Ingresar </strong></a>  -->
      
-     <center><button style="width: 100px; color: white; background-color: #F27323;padding: 3px 10px;
+     <center><button style="width: 100px; color: white; background-color: #008000;padding: 3px 10px;
      border: 1px solid #ababab; " 
       type="submit" name="submit" value="Ingresar" >
       	 Ingresar 

@@ -38,7 +38,7 @@ input {
             <div class="btn-group">
 
             <td colspan="2" align="center"><button id="consultar"  class="btn btn-primary btn-sm">Consultar</button>
-            <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-info"'); ?></td>
+            <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-warning"'); ?></td>
         </center>
     </div>
 </div>

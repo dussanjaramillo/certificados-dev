@@ -203,7 +203,7 @@
           <button  id="cargar" class="btn btn-primary btn-sm"
                       >Generar</button>
                       </form>  &nbsp;  &nbsp;
-              <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-info"'); ?>
+              <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-warning"'); ?>
            
             </center>
   </div>

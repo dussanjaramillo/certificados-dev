@@ -43,7 +43,7 @@
                         <div class="btn-group">
 <br>
                         <center><button id="cargar" class="btn btn-primary btn-sm">Cargar  </button></center>
-                        <div id="ajax_load" class="col-sm"  style="display: none"> <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-info"'); ?></div>
+                        <div id="ajax_load" class="col-sm"  style="display: none"> <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-warning"'); ?></div>
                     </center>
                 </div>
             </div>

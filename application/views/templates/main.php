@@ -67,14 +67,14 @@
           float: left;
           margin: 0.3rem;
           padding: 2rem 2rem;
-          border: 1px solid #995309;
+          border: 1px solid #008000;
           border-radius: 4px;
-          background-color: #d9750b;
+          background-color: #00B100;
           text-shadow: 0 -1px 0 rgba(0,0,0,.5);
           box-shadow: 0 1px 0 rgba(255,255,255,.5) inset,
           0 1px 3px rgba(0,0,0,.2);
-          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#f90),to(#e76a00));
-          background-image: linear-gradient(#f90 10%,#e76a00 100%);
+          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#00B100),to(#008000));
+          background-image: linear-gradient(#00B100 10%,#008000 100%);
           text-align: center;
         }
 
@@ -82,28 +82,28 @@
           padding: .6rem 1rem;
           border: 1px solid #fff;
           border-radius: 4px;
-          background-color: #d9750b;
+          background-color: #008000;
           color: #fff;
           font-size: 1.4rem;
           text-shadow: 0 -1px 0 rgba(0,0,0,.5);
           box-shadow: 0 1px 0 rgba(255,255,255,.5) inset, 0 1px 3px rgba(0,0,0,.2);
-          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#f90),to(#e76a00));
-          background-image: linear-gradient(#f90 10%,#e76a00 100%);
+          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#00B100),to(#008000));
+          background-image: linear-gradient(#00B100 10%,#008000 100%);
         }
 
         .btn-3d:hover, .btn-3d:focus {
-          background-color: #e0811b;
-          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#f0a100),to(#f70));
-          background-image: linear-gradient(#f0a100 10%,#f70 100%);
+          background-color: #008000;
+          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#00B100),to(#008000));
+          background-image: linear-gradient(#00B100 10%,#008000 100%);
           color: #fff;
           text-decoration: none;
         }
 
         .btn-3d:active {
-          background-color: #cf6a00;
+          background-color: #008000;
           box-shadow: 0 2px 3px 0 rgba(0,0,0,.2) inset;
-          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#f0a100),to(#f70));
-          background-image: linear-gradient(#f0a100 10%,#f70 100%);
+          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#00B100),to(#008000));
+          background-image: linear-gradient(#00B100 10%,#008000 100%);
           color: #fff;
         }
       }
@@ -113,14 +113,14 @@
           float: left;
           margin: 0.3rem;
           padding: 2rem 2rem;
-          border: 1px solid #995309;
+          border: 1px solid #008000;
           border-radius: 4px;
-          background-color: #d9750b;
+          background-color: #008000;
           text-shadow: 0 -1px 0 rgba(0,0,0,.5);
           box-shadow: 0 1px 0 rgba(255,255,255,.5) inset,
           0 1px 3px rgba(0,0,0,.2);
-          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#f90),to(#e76a00));
-          background-image: linear-gradient(#f90 10%,#e76a00 100%);
+          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#00B100),to(#008000));
+          background-image: linear-gradient(#00B100 10%,#008000 100%);
           text-align: center;
         }
 
@@ -128,28 +128,28 @@
           padding: .6rem 1rem;
           border: 1px solid #fff;
           border-radius: 4px;
-          background-color: #d9750b;
+          background-color: #008000;
           color: #fff;
           font-size: 1.4rem;
           text-shadow: 0 -1px 0 rgba(0,0,0,.5);
           box-shadow: 0 1px 0 rgba(255,255,255,.5) inset, 0 1px 3px rgba(0,0,0,.2);
-          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#f90),to(#e76a00));
-          background-image: linear-gradient(#f90 10%,#e76a00 100%);
+          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#00B100),to(#008000));
+          background-image: linear-gradient(#00B100 10%,#008000 100%);
         }
 
         .btn-3d:hover, .btn-3d:focus {
-          background-color: #e0811b;
-          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#f0a100),to(#f70));
-          background-image: linear-gradient(#f0a100 10%,#f70 100%);
+          background-color: #008000;
+          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#00B100),to(#008000));
+          background-image: linear-gradient(#00B100 10%,#008000 100%);
           color: #fff;
           text-decoration: none;
         }
 
         .btn-3d:active {
-          background-color: #cf6a00;
+          background-color: #008000;
           box-shadow: 0 2px 3px 0 rgba(0,0,0,.2) inset;
-          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#f0a100),to(#f70));
-          background-image: linear-gradient(#f0a100 10%,#f70 100%);
+          background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#00B100),to(#008000));
+          background-image: linear-gradient(#00B100 10%,#008000 100%);
           color: #fff;
         }
       }
@@ -158,6 +158,11 @@
 </head>
 
 <body>
+<div class="headerGov">
+    <div class="top">
+        <a href="https://www.gov.co/" target="_blank" alt="Gov.co"><img src="https://css.mintic.gov.co/mt/mintic/img/header_govco.png" alt="Gov Co" style="max-height: 20px;"></a>
+    </div>
+</div>
     <!--
         |
         | ::::::: Menu
@@ -208,9 +213,6 @@
         </div>
 
     </div>
-
-    </div>
-   
 
     <div class="container-xl">
       
@@ -366,7 +368,7 @@
 list-style: none;
 box-sizing: initial;
 text-decoration: none;
-background: #f89e06;
+background: #00B100;
 color: #fff;
 font-weight: bold;
 display: inline-block;
@@ -383,7 +385,7 @@ font-size: 12px;
 
         .row2 {
     color: #fff;
-    background-color: #ff6b00;
+    background-color: #008000;
     z-index: 600;
 }
 

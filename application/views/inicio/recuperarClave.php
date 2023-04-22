@@ -64,7 +64,7 @@
 
                             <div class="col-sm"> <button id="validar" class="btn btn-primary btn-sm"
                                     type="submit">Recuperar</button></div>
-                            <div class="col-sm">  <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-info"'); ?></div>
+                            <div class="col-sm">  <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-warning"'); ?></div>
                     </center>
                 </div>
             </div>
@@ -89,7 +89,7 @@
     <div class="btn-group">
 
 
-        <div class="col-sm"> <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-info"'); ?></div>
+        <div class="col-sm"> <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-warning"'); ?></div>
 </center>
 </div>
 </div>
@@ -132,7 +132,7 @@
 
                 <div class="col-sm" id="acepta" name="acepta"> <button 
                         class="btn btn-primary btn-sm" onclick="aceptar()">Validar</button></div>
-                <div class="col-sm">  <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-info"'); ?></div>
+                <div class="col-sm">  <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-warning"'); ?></div>
         </center>
     </div>
 </div>

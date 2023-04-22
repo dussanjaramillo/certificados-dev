@@ -64,7 +64,7 @@
 }
 
 
-.login-sec h2{margin-bottom:28px; font-weight:800; font-size:28px; color: #ff6719;}
+.login-sec h2{margin-bottom:28px; font-weight:800; font-size:28px; color: #01AF01;}
 .login-sec h2:after{content:" "; width:100px; height:5px; background:#FEB58A; display:block; margin-top:10px; border-radius:3px; margin-left:auto;margin-right:auto}
 .body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -228,7 +228,7 @@ $(function() {
 
                                         &nbsp;  &nbsp;
 
-                                    <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-info"'); ?>
+                                    <?php  echo anchor('auth/consulta', '<i class="icon-remove"></i> Cancelar', 'class="btn btn-warning"'); ?>
 
                             </center>
                         </div>

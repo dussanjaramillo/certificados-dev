@@ -579,8 +579,8 @@ pre code {
 
 .container-fluid {
   width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 0px;
+  padding-left: 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -2421,14 +2421,14 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #fc7323;
-  border-color: #fc7323;
+  background-color: #008000;
+  border-color: #008000;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #00B100;
+  border-color: #00B100;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -2523,14 +2523,14 @@ fieldset:disabled a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: #17a2b8;
-  border-color: #17a2b8;
+  background-color: #008585;
+  border-color: #008585;
 }
 
 .btn-info:hover {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #008282;
+  border-color: #008282;
 }
 
 .btn-info:focus, .btn-info.focus {
