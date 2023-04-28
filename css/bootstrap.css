@@ -532,8 +532,8 @@ a:focus {
   clear: both;
 }
 .container-fluid {
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 0px;
+  padding-left: 0px;
   *zoom: 1;
 }
 .container-fluid:before,
